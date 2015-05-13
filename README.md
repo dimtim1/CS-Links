@@ -23,4 +23,5 @@ https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
 ## LA ##
 * Determinents
 * LA by  Pavel Grinfeld
-    * [Named Link](http://www.google.fr/)
+    * [Part 1](https://www.youtube.com/playlist?list=PLlXfTHzgMRUKXD88IdzS14F4NxAZudSmv)
+    * [Part 2](https://www.youtube.com/playlist?list=PLlXfTHzgMRUIqYrutsFXCOmiqKUgOgGJ5)
