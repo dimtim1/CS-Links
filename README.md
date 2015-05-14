@@ -16,6 +16,7 @@ http://stackoverflow.com/a/19349645
 * A simple explanation of Naive Bayes Algorithm
 http://stackoverflow.com/a/20556654
 * [PCA and Eigen Vectors](https://georgemdallas.wordpress.com/2013/10/30/principal-component-analysis-4-dummies-eigenvectors-eigenvalues-and-dimension-reduction/)
+
 ---
 
 ## LA ##
