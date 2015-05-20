@@ -17,6 +17,7 @@ http://stackoverflow.com/a/19349645
 http://stackoverflow.com/a/20556654
 * [PCA and Eigen Vectors](https://georgemdallas.wordpress.com/2013/10/30/principal-component-analysis-4-dummies-eigenvectors-eigenvalues-and-dimension-reduction/)
 * [Videos on PCA](https://www.youtube.com/watch?v=fKivxsVlycs&index=4&list=PLBv09BD7ez_5_yapAg86Od6JeeypkS4YM)
+
 ---
 
 ## LA ##
