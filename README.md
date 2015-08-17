@@ -3,6 +3,7 @@
 
 
 ## Algorithms ##
+* [Find the median of a set of numbers in O(n)](http://cs.indstate.edu/~spitla/presentation.pdf)
 
 ---
 ## OS ##
